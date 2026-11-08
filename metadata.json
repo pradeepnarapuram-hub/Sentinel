@@ -1,0 +1,6 @@
+{
+  "name": "CallReview Healthcare QA",
+  "description": "Healthcare Call Review & Quality Assurance platform with AI-assisted scoring, compliance auditing, coaching feedback, and daily/weekly performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
